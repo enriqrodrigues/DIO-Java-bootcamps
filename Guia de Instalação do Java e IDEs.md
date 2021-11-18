@@ -1,61 +1,4 @@
-<h1>Dominando IDEs Java </h1>
-
-<p> Sejam bem-vindos ao curso <strong>DOMINANDO IDEs JAVA</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://web.digitalinnovation.one/"><strong> Digital Innovation One</a></strong>. 🧡💛<br>
-
-<div align="center">	
-▶️ <a href="https://www.youtube.com/watch?v=wcIm916zk9w&lc=UgwDmJkoCf5M9Pf66ll4AaABAg">Como criar um Access Token para se conectar com o GitHub</a></div>
-	
-<h2> 🚦 Guia </h2>
-
-<p>
-🔹 Começaremos passando rapidamente sobre o Java e algumas das suas características mais importantes <br>
-🔹 Em seguida, entraremos nas instalações do Java e das IDEs nos diferentes sistemas operacionais: Windows e Linux<br>
-🔹 E seguiremos até o final do curso explicando de uma forma leve e objetiva sobre umas das IDEs mais conhecidas para desenvolvimento Java: Eclipse IDE e IntelliJ IDEA IDE <br>
-</p>    
-<p align="center"> <em> ⚠️ Lembrando que o <strong>foco do curso são as IDEs</strong> e não a linguaguem Java. Ok? ⚠️ </em></p>
-
-
-
-<h2>
-🛑 Pré-requistos
-</h2>
-
-
-- [x] Sistema operacional (Windows e/ou Linux)
-
-- [x] Conta no GitHub
-
-  
-
-<h2> 📚 Ementa</h2>
-
-<h3><strong>▪️ Instalação/Configuração do Java</strong></h3>
-
-✅ Um pouco da história do Java<br>✅ Diferença entre JRE e JDK<br>✅ Versões do Java<br>
-✅ Se não existisse IDE?<br>
-
-<h3><strong> ▪️ Ubuntu</strong></h3>
-
-✅ Instalação OpenJDK <br>✅ Configuração de variável de ambiente<br>✅ Instalação do Eclipse<br>✅ Configurando o ícone no Dock<br>✅ Instalação do IntelliJ<br>
-
-<h3><strong> ▪️ Windows</strong></h3>
-
-✅ Instalação OpenJDK<br>✅ Configuração de variável de ambiente<br>✅ Instalação do Eclipse<br>✅ Instalação do IntelliJ<br>
-
-<h3><strong> ▪️ IntelliJ </strong></h3>
-
-✅ Diferenças entre versões<br>✅ Conhecendo um pouco por dentro da IDE<br>✅ Criando seu primeiro projeto Java no IntelliJ<br>✅ Atalhos e Produtividade<br>✅ Conectar seu projeto no GitHub<br>
-
-<h3><strong> ▪️ Eclipse </strong></h3>
-
-✅ Diferenças entre versões<br>✅ Conhecendo um pouco por dentro da IDE<br>✅ Criando seu primeiro projeto Java no IntelliJ<br>✅ Atalhos e Produtividade<br>✅ Conectar seu projeto no GitHub<br>
-
-<h3><strong> ▪️ Outras Alternativas </strong></h3>
-
-✅ Visual Studio Code<br>
-
-<br><br>
-
+<h1>Guia de Instalação do Java e IDEs</h1>
 
 <h2><strong> 🐧 LINUX</h2></strong>
 
@@ -387,19 +330,5 @@ git config --list
 
 <br><br>
 
-<h2> 🤝 Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
-
+Trecho de documento criado por https://github.com/cami-la/curso-dio-dominando-ides-java#:~:text=Disponibilizado%20com%20%E2%99%A5%20por-,cami-la.,-About
+Link original: https://github.com/cami-la/curso-dio-dominando-ides-java
