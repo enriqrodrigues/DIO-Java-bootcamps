@@ -330,5 +330,5 @@ git config --list
 
 <br><br>
 
-Trecho de documento criado por https://github.com/cami-la/curso-dio-dominando-ides-java#:~:text=Disponibilizado%20com%20%E2%99%A5%20por-,cami-la.,-About
+Trecho de documento criado por Camila Cavalcante
 Link original: https://github.com/cami-la/curso-dio-dominando-ides-java
