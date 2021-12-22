@@ -1,0 +1,3 @@
+>>>>>>> Arquivo de teste <<<<<<<<
+Hello world!!!
+>>>>>>> Arquivo de teste <<<<<<<<
