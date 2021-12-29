@@ -13,11 +13,11 @@ import java.util.Collections;
 import java.util.List;
 
 @Service
-public class UserDetailServiceImpl implements UserDetailsService {
+public class UserDetailsServiceImpl implements UserDetailsService {
 
     private final BCryptPasswordEncoder bCryptPasswordEncoder;
 
-    public UserDetailServiceImpl(BCryptPasswordEncoder bCryptPasswordEncoder) {
+    public UserDetailsServiceImpl(BCryptPasswordEncoder bCryptPasswordEncoder) {
         this.bCryptPasswordEncoder = bCryptPasswordEncoder;
     }
 

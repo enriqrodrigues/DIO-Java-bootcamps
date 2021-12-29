@@ -18,6 +18,7 @@ public class D2_GraosDeTrigo {
             //Lógica matemática: qtdGraos = 2^0 + 2^1 + 2^2 + .... + 2^(x-1) . Onde x = Número de quadrados do tabuleiro
             BigInteger quantKg = qtdGraos.divide(BigInteger.valueOf(12000)); //Calculo o peso em Kg.
             System.out.println(quantKg + " kg");
+            System.out.println(qtdGraos);
         }
     }
 }
